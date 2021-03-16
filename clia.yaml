@@ -1,0 +1,15 @@
+commands:
+  - name: say
+    doc: Say something at a certain time
+    action:
+      - name: now
+        doc: Say something now
+        action:
+          "echo Hi"
+  - name: 
+    doc:
+    action:
+      - name: 
+        doc: 
+        action:
+          "echo Hi"

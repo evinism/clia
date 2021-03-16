@@ -1,0 +1,22 @@
+{
+  "name": "clia",
+  "version": "0.1.0",
+  "description": "CLI generation for DevX tooling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evinism/clia.git"
+  },
+  "author": "Evin Sellin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evinism/clia/issues"
+  },
+  "homepage": "https://github.com/evinism/clia#readme",
+  "dependencies": {
+    "js-yaml": "^4.0.0"
+  }
+}
